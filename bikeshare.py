@@ -9,7 +9,7 @@
             |                                                       |                                          |
             |                                                       |                                          |
             |                                                       |                                          |
-     filter_by_day(df)                                       filter_by_day(df)                            filterless(df)
+     filter_by_day(df)                                       filter_by_month(df)                          filterless(df)
             |                                                       |                                          |
             |                                                       |                                          |
             |                                                       |                                          |
